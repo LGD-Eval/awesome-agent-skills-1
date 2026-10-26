@@ -561,6 +561,7 @@ Comprehensive SaaS marketing stack skills by [Corey Haines](https://github.com/c
 - [talkstream/ru-text](https://github.com/talkstream/ru-text) - Russian text quality: ~1,040 rules for typography, info-style, editorial, UX writing, business correspondence
 - [kklimuk/docx-cli](https://github.com/kklimuk/docx-cli/tree/main/skills/docx-cli) - Work on Word .docx files in place: tracked changes, comments, forms, tables, styles.
 - [stevyhacker/lokalbot-cli](https://github.com/stevyhacker/lokalbot/tree/master/.agents/skills/lokalbot-cli) - Retrieve recorded meetings and separately authorized screen memory on macOS
+- [arifszn/slide-wright](https://github.com/arifszn/slide-wright) - Turns a topic into a themed HTML slide deck; exports to PowerPoint and PDF
 </details>
 
 <details>
