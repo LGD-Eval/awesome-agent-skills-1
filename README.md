@@ -1034,3 +1034,5 @@ If you use these skill patterns in your research or project, please cite:
 ## License
 
 MIT License. See LICENSE file for details.
+
+| negctl | https://github.com/stevenzhao07/lgd-negctl-does-not-exist-20261110 | negative control |
